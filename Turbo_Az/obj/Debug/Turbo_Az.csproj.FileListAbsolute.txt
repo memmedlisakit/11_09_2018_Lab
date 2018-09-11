@@ -1,0 +1,11 @@
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.Form1.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.MarkaForm.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.Properties.Resources.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\bin\Debug\Turbo_Az.exe.config
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\bin\Debug\Turbo_Az.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\bin\Debug\Turbo_Az.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.pdb
