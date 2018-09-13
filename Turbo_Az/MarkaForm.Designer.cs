@@ -72,6 +72,7 @@
             this.btnAddMarka.TabIndex = 5;
             this.btnAddMarka.Text = "Save";
             this.btnAddMarka.UseVisualStyleBackColor = true;
+            this.btnAddMarka.Click += new System.EventHandler(this.btnAddMarka_Click);
             // 
             // txtMarka
             // 

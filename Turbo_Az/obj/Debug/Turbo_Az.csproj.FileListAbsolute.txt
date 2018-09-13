@@ -9,3 +9,4 @@ C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\bin\Debug\T
 C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\bin\Debug\Turbo_Az.pdb
 C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.exe
 C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Turbo_Az\Turbo_Az\obj\Debug\Turbo_Az.SearchForm.resources

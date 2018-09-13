@@ -58,5 +58,27 @@ namespace Turbo_Az
                 }
             }
         }
+
+        private void btnAddMarka_Click(object sender, EventArgs e)
+        {
+            int affectedRow = 0;
+            string modelName = txtModel.Text;
+            int markaId = Convert.ToInt32((cmbMarka.SelectedItem as ComboItem).Value);
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                string query = "INSERT INTO Models(Name, Marka_id) VALUES (@name, @marka_id)";
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@name", modelName);
+                    command.Parameters.AddWithValue("@marka_id", markaId);
+                    affectedRow = command.ExecuteNonQuery();
+                }
+            }
+            MessageBox.Show(affectedRow > 0 ? "Success" : "Error");
+            txtModel.Text = "";
+            cmbMarka.SelectedIndex = 0;
+        }
     }
 }
